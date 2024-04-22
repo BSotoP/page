@@ -63,6 +63,17 @@ script {
     line-height: 25px;
     margin: 8px;
 }
+
+/*Footer*/
+.seccion-final {
+    display: flex;
+   
+  }
+.seccion-final__parrafo {
+   /* border: 1px solid; */
+    margin: 0.5rem;
+  }
+
 footer>p>a{ 
     color: var(--ColorBackground);
 }
