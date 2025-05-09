@@ -34,7 +34,7 @@ body {
 .content {
     padding-left: 50px;
     /* Añadir espacio al contenido */
-    padding-right: 50px;
+    /*padding-right: 50px;*/
     text-align: left;
     /* Centrar el contenido */
 }
